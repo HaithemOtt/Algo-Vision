@@ -8,7 +8,7 @@ import PlayBtn from "./PlayBtn";
 import PauseBtn from "./PauseBtn";
 import AbortBtn from "./AbortBtn";
 import CleanBtn from "./CleanBtn";
-import Realtime from "./Realtime";
+import Realtime from "./RealTime";
 import Distance from "./Distance";
 import MidwayBtn from "./MidwayBtn";
 import WeightBtn from "./WeightBtn";
